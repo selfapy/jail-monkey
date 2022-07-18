@@ -29,13 +29,13 @@
     "name": "Gant Laborde"
   },
   "bugs": {
-    "url": "https://github.com/GantMan/jail-monkey/issues"
+    "url": "https://github.com/selfapy/jail-monkey/issues"
   },
   "description": "A React Native module for identifying jail-broken, rooted, or mock locations on iOS and Android",
   "devDependencies": {
     "np": "^7.5.0"
   },
-  "homepage": "https://github.com/GantMan/jail-monkey#readme",
+  "homepage": "https://github.com/selfapy/jail-monkey#readme",
   "keywords": [
     "React-Native",
     "Native",
@@ -49,10 +49,10 @@
   ],
   "license": "MIT",
   "main": "jailmonkey.js",
-  "name": "jail-monkey",
+  "name": "@selfapy/jail-monkey",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/GantMan/jail-monkey.git"
+    "url": "git+ssh://git@github.com/selfapy/jail-monkey.git"
   },
   "scripts": {
     "shipit": "np",
