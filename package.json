@@ -49,7 +49,7 @@
   ],
   "license": "MIT",
   "main": "jailmonkey.js",
-  "name": "@selfapy/jail-monkey",
+  "name": "jail-monkey",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/selfapy/jail-monkey.git"
